@@ -1,4 +1,4 @@
-<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/101193553_532031684139901_390800727825448960_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=NvlITf678qYAX-m1lm6&_nc_ht=scontent-ssn1-1.xx&oh=0e31cbdd9b924e105fbb36ed3bc657e9&oe=5EFAE474" align="center" width="300" height="300">
+<center><img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/101193553_532031684139901_390800727825448960_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=NvlITf678qYAX-m1lm6&_nc_ht=scontent-ssn1-1.xx&oh=0e31cbdd9b924e105fbb36ed3bc657e9&oe=5EFAE474" width="300" height="300"></center>
 
 <h2 align="center">GRAM</h2>
 
