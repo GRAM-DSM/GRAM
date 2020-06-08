@@ -6,6 +6,8 @@
 
 [페이스북](https://www.facebook.com/전공동아리-GRAM-100585455006576/)
 
+> 이 저작물은 GRAM에 있습니다. (Lisence)[https://github.com/GRAM-DSM/GRAM/blob/master/License.md]에 따라 무단 수정 및 재배포를 금지합니다. 사용을 원한다면 GRAM의 허락을 맡은 후, 출처를 명시해야 합니다.
+
 ## 가치관
 
 1. 좋은 문화
