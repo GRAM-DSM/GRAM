@@ -5,6 +5,7 @@
 > 2017년에 시작된, 모바일 앱 프로그래밍에 관해 공부하는 전공 동아리입니다.
 
 [페이스북](https://www.facebook.com/전공동아리-GRAM-100585455006576/)
+더 자세한 내용이 궁금하다면 -> [노션](https://www.notion.so/GRAM-9362ca767c23459bab58ec21bb85cefc)
 
 이 저작물의 저작권은 GRAM에 있습니다. [Lisence](https://github.com/GRAM-DSM/GRAM/blob/master/License.md)에 따라 무단 수정 및 재배포를 금지합니다. 사용을 원한다면 GRAM의 허락을 맡은 후, 출처를 명시해야 합니다.
 
